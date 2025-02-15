@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6460870181",
+    "project_id": "cis-student-app",
+    "storage_bucket": "cis-student-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6460870181:android:8eea2f6ffdaff0f0cdf9cc",
+        "android_client_info": {
+          "package_name": "com.example.cis_student_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATY9aeiBKZ9rQaBLFjBB-YSz9OIB2kESA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
